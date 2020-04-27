@@ -222,7 +222,7 @@ t	border-radius: 30px;
 	.top nav-bar{
 		height: 500px;
 
-		border-bottom: 0;
+		border-bottom: 10;
 	}
 	.logoi{
 			top: 0;
