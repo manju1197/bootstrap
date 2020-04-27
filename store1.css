@@ -258,6 +258,7 @@ t	border-radius: 30px;
 	float: left;
 	z-index: 8;
 	background-color: #fc7171;
+	position: fixed;
 
 }
 .side-menu ul{
